@@ -29,6 +29,10 @@ body {
   margin: 30px 0;
 }
 
+.card-header.grid {
+  grid-gap: 0px;
+}
+
 .card-body {
   padding: 32px;
 }
@@ -48,6 +52,11 @@ body {
   text-decoration: none;
   padding: 16px;
   background-color: #462cb3;
+}
+
+.embed {
+  width: 100%;
+  aspect-ratio: 1 /1;
 }
 
 section {
@@ -111,7 +120,7 @@ main {
 }
 
 .img-responsive {
-  max-width: 100%;
+  width: 100%;
   display: block;
 }
 
