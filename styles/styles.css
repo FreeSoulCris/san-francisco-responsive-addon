@@ -235,7 +235,7 @@ footer section {
     font-size: 20px;
     line-height: 1.5;
     margin: 0;
-    padding: 5px;;
+    padding: 5px;
   }
 
   header h3 {
@@ -254,14 +254,13 @@ footer section {
     padding: 30px;
   }
 
-  section.first-section h2,h3{
+  section.first-section h2,
+  h3 {
     text-align: center;
   }
 
   .secondary-section,
   .third-section {
-  padding: 30px 20px;
+    padding: 30px 20px;
+  }
 }
-
-
-
