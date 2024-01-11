@@ -220,7 +220,7 @@ footer a {
 footer section {
   margin: 0 50px;
 }
-@media (max-width: 1100px) {
+@media (max-width: 1260px) {
   header {
     padding: 60px 0;
   }
